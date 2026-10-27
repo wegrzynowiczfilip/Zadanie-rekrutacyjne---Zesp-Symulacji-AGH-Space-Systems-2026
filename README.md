@@ -1,4 +1,5 @@
-#Rekrutacja AGH Space Systems 2026 - Zespół Symulacji
+
+Rekrutacja AGH Space Systems 2026 - Zespół Symulacji
 Projekt rekrutacyjny: symulacja lotu rakiety na paliwo ciekłe w kategorii Liquid 9k na zawody EuRoC. Rakieta bazuje na konstrukcji Turbulencja.
 
 1. rekrutacjav1.ork - projekt rakiety w OpenRocket (wymiary, waga, kształt)
