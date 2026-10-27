@@ -1,1 +1,1 @@
-# Zadanie-rekrutacyjne---Zesp-Symulacji-AGH-Space-Systems-2026
+# Zadanie-rekrutacyjne-Zesp-Symulacji-AGH-Space-Systems-2026
